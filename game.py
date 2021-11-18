@@ -1,5 +1,3 @@
-#!/home/akshat/miniconda3/envs/machine-learning/bin/python
-
 from formatting import display_board
 from ai import is_win, is_loss, is_draw, valid_moves, place_piece, play_move
 import numpy as np
